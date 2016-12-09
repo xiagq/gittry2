@@ -1,2 +1,1 @@
-# GITTest
--branch-A
+# GITTest -branch-B
